@@ -1,0 +1,6 @@
+In my website, I added a picture as the background, added the font Oswald for my name, and added a heading 
+with a shadow behind it to navigate to different tabs. I also added a shadow behind header to make the words easier to see. 
+You also have to scroll down on the home page to see the description and my contact information.
+
+https://justinnikolic.github.io/DS4200/
+ 
